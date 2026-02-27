@@ -1,3 +1,2 @@
-# project 2
-
+# Project 2
 This Is Project 2
